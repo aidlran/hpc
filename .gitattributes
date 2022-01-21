@@ -1,0 +1,7 @@
+# Normalize line endings
+* text=auto
+
+*.sh   text
+*.md   text
+*.c    text
+Make.* text
